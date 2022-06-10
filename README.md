@@ -1,7 +1,7 @@
 # Data-Science-Resource-Book
 
 # Introduction to Machine Learning
-## Course I - Andrew NG course, 
+## Course I - Machine Learning by Andrew NG, Standford University 
 you tube link for Machine learning with Andrew NG, Stanford University : https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 ### Definition
