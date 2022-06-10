@@ -129,7 +129,7 @@ Clustering is a method of grouping the objects into clusters such that objects w
 ### Association: 
 An association rule is an unsupervised learning method which is used for finding the relationships between variables in the large database. It determines the set of items that occurs together in the dataset. Association rule makes marketing strategy more effective. Such as people who buy X item (suppose a bread) are also tend to purchase Y (Butter/Jam) item. A typical example of Association rule is Market Basket Analysis.
 
-Unsupervised Learning algorithms:
+### Unsupervised Learning algorithms:
 Below is the list of some popular unsupervised learning algorithms:
 
 K-means clustering
