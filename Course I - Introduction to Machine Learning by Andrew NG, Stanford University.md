@@ -81,3 +81,5 @@ Supervised learning models are not suitable for handling the complex tasks.
 Supervised learning cannot predict the correct output if the test data is different from the training dataset.
 Training required lots of computation times.
 In supervised learning, we need enough knowledge about the classes of object.
+
+---------------------------------------------------------------------------------------------------------------------------
