@@ -43,7 +43,7 @@ Supervised learning can be further divided into two types of problems:
 
 ![image](https://user-images.githubusercontent.com/62272672/173085138-b21bc55c-043d-4d95-9cbf-68309d116efb.png)
 
-1. Regression
+### Regression
 
 Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc. Below are some popular Regression algorithms which come under supervised learning:
 
@@ -58,7 +58,7 @@ Bayesian Linear Regression
 Polynomial Regression
 
 
-2. Classification
+### Classification
 
 Classification algorithms are used when the output variable is categorical, which means there are two classes such as Yes-No, Male-Female, True-false, etc.
 
