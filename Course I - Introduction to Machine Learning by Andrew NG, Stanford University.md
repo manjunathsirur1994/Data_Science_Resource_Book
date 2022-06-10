@@ -58,8 +58,6 @@ Polynomial Regression
 
 Classification algorithms are used when the output variable is categorical, which means there are two classes such as Yes-No, Male-Female, True-false, etc.
 
-Spam Filtering,
-
 Random Forest
 Decision Trees
 Logistic Regression
