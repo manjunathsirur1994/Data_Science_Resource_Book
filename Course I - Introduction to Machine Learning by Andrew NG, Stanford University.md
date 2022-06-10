@@ -36,3 +36,43 @@ If the given shape has six equal sides then it will be labelled as hexagon.
 Now, after training, we test our model using the test set, and the task of the model is to identify the shape.
 
 The machine is already trained on all types of shapes, and when it finds a new shape, it classifies the shape on the bases of a number of sides, and predicts the output.
+
+### Types of supervised Machine learning Algorithms:
+
+Supervised learning can be further divided into two types of problems:
+
+![image](https://user-images.githubusercontent.com/62272672/173085138-b21bc55c-043d-4d95-9cbf-68309d116efb.png)
+
+1. Regression
+
+Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc. Below are some popular Regression algorithms which come under supervised learning:
+
+Linear Regression
+Regression Trees
+Non-Linear Regression
+Bayesian Linear Regression
+Polynomial Regression
+
+
+2. Classification
+
+Classification algorithms are used when the output variable is categorical, which means there are two classes such as Yes-No, Male-Female, True-false, etc.
+
+Spam Filtering,
+
+Random Forest
+Decision Trees
+Logistic Regression
+Support vector Machines
+
+###  Advantages of Supervised learning:
+With the help of supervised learning, the model can predict the output on the basis of prior experiences.
+In supervised learning, we can have an exact idea about the classes of objects.
+Supervised learning model helps us to solve various real-world problems such as fraud detection, spam filtering, etc.
+
+
+### Disadvantages of supervised learning:
+Supervised learning models are not suitable for handling the complex tasks.
+Supervised learning cannot predict the correct output if the test data is different from the training dataset.
+Training required lots of computation times.
+In supervised learning, we need enough knowledge about the classes of object.
