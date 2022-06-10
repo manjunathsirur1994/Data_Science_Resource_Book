@@ -23,6 +23,7 @@ In the real-world, supervised learning can be used for Risk Assessment, Image cl
 In supervised learning, models are trained using labelled dataset, where the model learns about each type of data. Once the training process is completed, the model is tested on the basis of test data (a subset of the training set), and then it predicts the output.
 
 The working of Supervised learning can be easily understood by the below example and diagram:
+
 ![image](https://user-images.githubusercontent.com/62272672/173084403-fa80708d-39e8-4fed-b2f4-6352b6f87683.png)
 
 Suppose we have a dataset of different types of shapes which includes square, rectangle, triangle, and Polygon. Now the first step is that we need to train the model for each shape.
