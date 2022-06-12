@@ -1,4 +1,6 @@
-What is Linear Regression?
+## What is Linear Regression?
+
+
 Linear Regression is a predictive algorithm which provides a Linear relationship between Prediction (Call it ‘Y’) and Input (Call is ‘X’).
 
 As we know from the basic maths that if we plot an ‘X’,’Y’ graph, a linear relationship will always come up with a straight line. For example, if we plot the graph of these values
