@@ -17,7 +17,11 @@ Before moving further into this, let’s understand the fact that in real life, 
 
 
 Equation of Straight Line from 2 Points
-The equation of a straight line is written using the y = mx + b, where m is the slope (Gradient) and b is y-intercept (where the line crosses the Y axis).
+The equation of a straight line is written using
+
+y = mx + b, 
+
+where m is the slope (Gradient) and b is y-intercept (where the line crosses the Y axis).
 
 Once we get the equation of a straight line from 2 points in space in y = mx + b format, we can use the same equation to predict the points at different values of x which result in a straight line.
 
