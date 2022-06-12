@@ -5,7 +5,7 @@
 
 Youtube link for Machine learning with Andrew NG, Stanford University : https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
-(Notes to this course is in respective folder in the repo) 
+(Notes+video link to this course is in respective folder in the repo) 
 
 
 
