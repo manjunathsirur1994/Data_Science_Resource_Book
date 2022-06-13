@@ -1,13 +1,13 @@
 ## Git_Bash commands
 
-1. __ls__ - prints the files in the current directory
+1. __ls__               prints the files in the current directory
 
-2. __ls -a__   - prints all the files along with hidden files as well from the current directory
+2. __ls -a__            prints all the files along with hidden files as well from the current directory
 
-3. __cd__ (change directory) - used to move to another directory
-		example: cd desktop, cd documents, cd c: 
+3. __cd__               (change directory) - used to move to another directory
+		         		example: cd desktop, cd documents, cd c: 
 
-4. __cd__ -  use cd to go back to previous directory
+4. __cd__               use cd to go back to previous directory
 
 5. __pwd__ - prints the current working directory
 
