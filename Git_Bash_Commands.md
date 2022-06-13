@@ -1,51 +1,29 @@
 ## Git_Bash commands
 _________________________________________________________________________________________________________________________________________________________
 
-ls - prints the files in the current directory
+1. ls - prints the files in the current directory
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+2. ls -a   - prints all the files along with hidden files as well from the current directory
 
-ls -a   - prints all the files along with hidden files as well from the current directory
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-cd (change directory) - used to move to another directory
+3. cd (change directory) - used to move to another directory
 		example: cd desktop, cd documents, cd c: 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+4. cd -  use cd to go back to previous directory
 
+5. pwd - prints the current working directory
 
-cd -  use cd to go back to previous directory
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-pwd - prints the current working directory
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-start - start opens a file from the current directory
+6. start - start opens a file from the current directory
 		example: start git_bash_commands.txt 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-touch - this creates a file in the current directory
+7. touch - this creates a file in the current directory
 		example: touch git.txt
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-mkdir - this creates a folder/directory in the current directory
+8. mkdir - this creates a folder/directory in the current directory
 		example: mkdir newfolder
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-rm - this removes/deletes a file permanently from the current directory
+9. rm - this removes/deletes a file permanently from the current directory
 		example: rm git.txt
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-rm -rf - this removes/deletes a folder permanently from the current folder/directory
+10. rm -rf - this removes/deletes a folder permanently from the current folder/directory
 		example: rm -rf anyfolder
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
