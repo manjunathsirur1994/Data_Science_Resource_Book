@@ -1,5 +1,6 @@
 # Introduction to Machine Learning
-## Course I - Machine Learning by Andrew NG, Standford University 
+## Course I - Machine Learning by Andrew NG, Standford University
+
 Youtube link for Machine learning with Andrew NG, Stanford University 
 
 video 1: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1
@@ -7,6 +8,8 @@ video 1: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkY
 video 2: https://www.youtube.com/watch?v=bQI5uDxrFfA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=2
 
 video 3: https://www.youtube.com/watch?v=jAA2g9ItoAc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=3
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 ### Definition
 Machine learning is a field of study that gives ability to computers to learn without explicitly programming.
