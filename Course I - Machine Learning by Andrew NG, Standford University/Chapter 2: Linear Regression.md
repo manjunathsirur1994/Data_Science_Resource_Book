@@ -1,4 +1,5 @@
-Youtube link for Machine learning with Andrew NG, Stanford University : 
+## Youtube link for Machine learning with Andrew NG, Stanford University : 
+
 video 1: https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4
 
 video 2: https://www.youtube.com/watch?v=yuH4iRcggMw&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=6
