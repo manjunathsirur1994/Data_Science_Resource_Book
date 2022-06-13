@@ -1,6 +1,6 @@
 ## Git_Bash commands
 
-1. ls - prints the files in the current directory
+1. __ls__ - prints the files in the current directory
 
 2. ls -a   - prints all the files along with hidden files as well from the current directory
 
