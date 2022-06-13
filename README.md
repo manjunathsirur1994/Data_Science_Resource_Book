@@ -8,4 +8,9 @@ Youtube link for Machine learning with Andrew NG, Stanford University : https://
 (Notes+video link to this course is in respective folder in the repo) 
 
 
+### Git bash Commands
+
+This document has all the git bash commands necessary for pushing the code to github and collaboration. 
+
+
 
