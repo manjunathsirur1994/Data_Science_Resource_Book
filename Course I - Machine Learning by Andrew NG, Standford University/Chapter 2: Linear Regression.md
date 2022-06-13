@@ -13,6 +13,9 @@ video 6: https://www.youtube.com/watch?v=YovTqTY-PYY&list=PLLssT5z_DsK-h9vYZkQkY
 
 video 7: https://www.youtube.com/watch?v=GtSf2T6Co80&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=11
 
+
+_______________________________________________________________________________________________________________________________________________________________________
+
 ## What is Linear Regression?
 
 
