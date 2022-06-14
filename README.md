@@ -12,7 +12,7 @@ Course repo link: https://github.com/manjunathsirur1994/Data_Science_Resource_Bo
 --------------------------------------------------------------------
 
 
-### Git bash Commands
+### Git & Git bash Commands
 
 This document has all the git bash commands necessary for pushing the code to github and collaboration. 
 
