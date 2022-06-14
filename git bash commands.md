@@ -8,10 +8,10 @@
 
 		prints all the files along with hidden files as well from the current directory
 
-3. __cd__  
+3. __cd__  (change directory) 
 
-		(change directory) - used to move to another directory
-		         		example: cd desktop, cd documents, cd c: 
+		used to move to another directory
+	         		example: cd desktop, cd documents, cd c: 
 
 4. __cd__  
 
