@@ -27,6 +27,7 @@
 		example: rm -rf anyfolder
 		
 11. __Creating a git repo with git init -__ 
+
 		-make a directory with mkdir
 		-go to the folder with cd
 		-initiate git init once
