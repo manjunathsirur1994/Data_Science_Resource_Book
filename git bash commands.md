@@ -25,4 +25,10 @@
 
 10. __rm -rf__ - this removes/deletes a folder permanently from the current folder/directory
 		example: rm -rf anyfolder
+		
+11. __Creating a git repo with git init -__ 
+		-make a directory with mkdir
+		-go to the folder with cd
+		-initiate git init once
+		-there will be a .git folder created which is hidden and can be seen only with __ls -a__ command. 
 
