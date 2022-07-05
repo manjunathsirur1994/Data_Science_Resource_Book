@@ -15,7 +15,7 @@ Course repo link: https://github.com/manjunathsirur1994/Data_Science_Resource_Bo
 This document has all the git bash commands necessary for pushing the code to github and collaboration. 
 
 Course repo link:
-https://zapcom.udemy.com/course/git-and-github-bootcamp/
+https://github.com/manjunathsirur1994/Data_Science_Resource_Book/tree/main/Git%26Git_bash
 
 
 
